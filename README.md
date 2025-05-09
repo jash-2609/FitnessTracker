@@ -1,4 +1,4 @@
-# MERN-FitnessTracker
+FitnessTracker
 
 ## Overview
 
@@ -11,29 +11,4 @@ FitnessTracker is a full-stack web application built using the MERN stack (Mongo
 - Responsive design for optimal user experience on various devices
 - Secure user authentication and authorization
 
-## Installation & Setup
 
-1. Clone the repository:
-
-git clone git@github.com:keleshteri/MERN-FitnessTracker.git
-
-2. Install dependencies:
-
-cd MERN-FitnessTracker
-
-## Technologies Used
-
-- MongoDB
-- Express
-- React
-- Node.js
-
-## Contributing
-
-Feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
-
-## License
-
-MIT License
----
-Made with ❤️ by [Mohammad Mehdi Shaban Keleshteri](https://github.com/keleshteri)
